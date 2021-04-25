@@ -7,12 +7,12 @@ The objective of the project was to analyze the relationship between various fac
    - FB.......
 3. Tableau
 # Steps 
-## 1. Aquiring Data
+## 1. Aquiring Data 
 Data for Diaster data for each state was aquired through NOA. Housing Data
 ## 2. Cleaning Data
 Data was cleaned using python pandas.
 ## 3. Analysis
-Data was analyzed on Tableau
+Data was analyzed on Tableau.
 ## 4. Prediction
 Machine learning was used to predict trends with FBlearn....
 
