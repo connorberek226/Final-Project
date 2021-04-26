@@ -19,11 +19,20 @@ Machine learning was used to predict trends with FBlearn....
 
 # Analysis
 
-## Temperature Data
+## Housing Data
+We compared housing data to average income for each house pricepoint to see the correlation for each state
 
 ## Illinois
 ![image](https://user-images.githubusercontent.com/60550835/116014784-f971d900-a604-11eb-9d77-42305ef34c12.png)
 ![image](https://user-images.githubusercontent.com/60550835/116014802-0f7f9980-a605-11eb-9b76-5b636cff5f71.png)
+
+## Florida
+![image](https://user-images.githubusercontent.com/60550835/116024006-524c6c00-a61b-11eb-805f-4aab139e662e.png)
+![image](https://user-images.githubusercontent.com/60550835/116024025-5aa4a700-a61b-11eb-95da-5aa74e49b160.png)
+
+## California
+![image](https://user-images.githubusercontent.com/60550835/116024285-e0285700-a61b-11eb-850b-409e0c59f256.png)
+![image](https://user-images.githubusercontent.com/60550835/116024296-e74f6500-a61b-11eb-8a04-e85b7f50a52d.png)
 
 
 ![image](https://user-images.githubusercontent.com/60550835/115165841-da5fce00-a07d-11eb-83a4-f643b54b0f89.png)
