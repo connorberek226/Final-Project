@@ -4,14 +4,15 @@
 The objective of the project was to analyze the relationship between various factors that impact HPI such as Weather and Disaster data for IL, FL, CA. Data cleanup was performed in Jupyter Notebok. A Dashboard was created in Tableau. FBprophet was used to forecast climate trends. A multiple linear regression was created to test if weather and disaster had an affect on HPI.
 # Tools 
 1. Python
-   - FB.......
-3. Tableau
+   - FBprophet
+   - Pandas
+2. Tableau
 # Steps 
 ## 1. Aquiring Data 
 Data for Diaster data for each state was aquired through NOA. Housing Data
 ## 2. Cleaning Data
 Data was cleaned using python pandas.
-## 3. Analysis
+## 3. AnalysisPandas
 Data was analyzed on Tableau.
 ## 4. Prediction
 Machine learning was used to predict trends with FBlearn....
@@ -20,8 +21,10 @@ Machine learning was used to predict trends with FBlearn....
 
 ## Temperature Data
 
-## Florida?
-![image](https://user-images.githubusercontent.com/60550835/115165831-ce740c00-a07d-11eb-824e-38ceb7c9bd79.png)
+## Illinois
+![image](https://user-images.githubusercontent.com/60550835/116014784-f971d900-a604-11eb-9d77-42305ef34c12.png)
+![image](https://user-images.githubusercontent.com/60550835/116014802-0f7f9980-a605-11eb-9b76-5b636cff5f71.png)
+
 
 ![image](https://user-images.githubusercontent.com/60550835/115165841-da5fce00-a07d-11eb-83a4-f643b54b0f89.png)
 
