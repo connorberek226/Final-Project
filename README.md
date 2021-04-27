@@ -34,4 +34,19 @@ We compared housing data to average income for each house pricepoint to see the 
 ![image](https://user-images.githubusercontent.com/60550835/116024285-e0285700-a61b-11eb-850b-409e0c59f256.png)
 ![image](https://user-images.githubusercontent.com/60550835/116024296-e74f6500-a61b-11eb-8a04-e85b7f50a52d.png)
 
+## Illinois
+![image](https://user-images.githubusercontent.com/60550835/116175079-a61f8980-a6dd-11eb-94ca-9bff50190f99.png)
+![image](https://user-images.githubusercontent.com/60550835/116175128-bd5e7700-a6dd-11eb-9e0c-f57cf4e31bef.png)
+
+## Florida 
+![image](https://user-images.githubusercontent.com/60550835/116175197-de26cc80-a6dd-11eb-9130-d788fd8f0f09.png)
+![image](https://user-images.githubusercontent.com/60550835/116175219-e4b54400-a6dd-11eb-82ca-9f6607cd1f23.png)
+
+## California
+![image](https://user-images.githubusercontent.com/60550835/116175344-1c23f080-a6de-11eb-95e3-2e367a78721f.png)
+![image](https://user-images.githubusercontent.com/60550835/116175721-de739780-a6de-11eb-84cf-93d1d6177dce.png)
+
+
+
+
 
