@@ -20,7 +20,7 @@ Machine learning was used to predict trends with FBlearn....
 # Analysis
 
 ## Housing Data
-We compared housing data to average income for each house pricepoint to see the correlation for each state
+We compared housing data to average income for each house pricepoint to see the correlation for each state.
 
 ## Illinois
 ![image](https://user-images.githubusercontent.com/60550835/116014784-f971d900-a604-11eb-9d77-42305ef34c12.png)
@@ -34,6 +34,8 @@ We compared housing data to average income for each house pricepoint to see the 
 ![image](https://user-images.githubusercontent.com/60550835/116024285-e0285700-a61b-11eb-850b-409e0c59f256.png)
 ![image](https://user-images.githubusercontent.com/60550835/116024296-e74f6500-a61b-11eb-8a04-e85b7f50a52d.png)
 
+# Weather Predict
+
 ## Illinois
 ![image](https://user-images.githubusercontent.com/60550835/116175079-a61f8980-a6dd-11eb-94ca-9bff50190f99.png)
 ![image](https://user-images.githubusercontent.com/60550835/116175128-bd5e7700-a6dd-11eb-9e0c-f57cf4e31bef.png)
@@ -45,6 +47,34 @@ We compared housing data to average income for each house pricepoint to see the 
 ## California
 ![image](https://user-images.githubusercontent.com/60550835/116175344-1c23f080-a6de-11eb-95e3-2e367a78721f.png)
 ![image](https://user-images.githubusercontent.com/60550835/116175721-de739780-a6de-11eb-84cf-93d1d6177dce.png)
+
+# Disaster Data
+
+## Illinois
+![image](https://user-images.githubusercontent.com/60550835/116434702-a4a6ac00-a818-11eb-9536-a999aaa6908d.png)
+![image](https://user-images.githubusercontent.com/60550835/116434773-b5572200-a818-11eb-81cb-b089e2254799.png)
+
+## Florida 
+![image](https://user-images.githubusercontent.com/60550835/116435691-a3c24a00-a819-11eb-8e76-e4a91ec1186e.png)
+![image](https://user-images.githubusercontent.com/60550835/116435742-b3da2980-a819-11eb-9879-7497c186c1de.png)
+
+## California
+![image](https://user-images.githubusercontent.com/60550835/116435815-c6546300-a819-11eb-82d8-96c7e96e2b21.png)
+![image](https://user-images.githubusercontent.com/60550835/116435886-d704d900-a819-11eb-9bbc-be8ba2a85dac.png)
+
+# HPI Predictions
+
+## Illinois
+![image](https://user-images.githubusercontent.com/60550835/116436780-bc7f2f80-a81a-11eb-83f7-66f47fb43a3e.png)
+![image](https://user-images.githubusercontent.com/60550835/116436849-cdc83c00-a81a-11eb-8340-1a193184fa3a.png)
+
+## Florida
+![image](https://user-images.githubusercontent.com/60550835/116436912-dcaeee80-a81a-11eb-83d1-21b7806e6803.png)
+![image](https://user-images.githubusercontent.com/60550835/116436944-e6385680-a81a-11eb-88c5-39e2a83264aa.png)
+
+## California
+![image](https://user-images.githubusercontent.com/60550835/116437041-01a36180-a81b-11eb-9d22-354ee7decffc.png)
+![image](https://user-images.githubusercontent.com/60550835/116437060-07994280-a81b-11eb-8e14-1c0bb9211264.png)
 
 
 
