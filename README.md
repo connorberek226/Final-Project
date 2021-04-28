@@ -15,7 +15,7 @@ Data was cleaned using python pandas.
 ## 3. AnalysisPandas
 Data was analyzed on Tableau.
 ## 4. Prediction
-Machine learning was used to predict trends with FBlearn....
+Machine learning was used to predict trends with FBprophet.
 
 # Analysis
 
@@ -35,6 +35,7 @@ We compared housing data to average income for each house pricepoint to see the 
 ![image](https://user-images.githubusercontent.com/60550835/116024296-e74f6500-a61b-11eb-8a04-e85b7f50a52d.png)
 
 # Weather Predict
+We used Fb-prophet to predict the different temperature trends for each state.
 
 ## Illinois
 ![image](https://user-images.githubusercontent.com/60550835/116175079-a61f8980-a6dd-11eb-94ca-9bff50190f99.png)
@@ -49,7 +50,7 @@ We compared housing data to average income for each house pricepoint to see the 
 ![image](https://user-images.githubusercontent.com/60550835/116175721-de739780-a6de-11eb-84cf-93d1d6177dce.png)
 
 # Disaster Data
-
+We collected data on the most widely occuring diaster for each state. For Illinois we focused on Tornadoes. For Florida it was on Hurricanes. For California it was wide fires.
 ## Illinois
 ![image](https://user-images.githubusercontent.com/60550835/116434702-a4a6ac00-a818-11eb-9536-a999aaa6908d.png)
 ![image](https://user-images.githubusercontent.com/60550835/116434773-b5572200-a818-11eb-81cb-b089e2254799.png)
@@ -63,7 +64,7 @@ We compared housing data to average income for each house pricepoint to see the 
 ![image](https://user-images.githubusercontent.com/60550835/116435886-d704d900-a819-11eb-9bbc-be8ba2a85dac.png)
 
 # HPI Predictions
-
+Fb-prophet was used to run predictions about future HPI
 ## Illinois
 ![image](https://user-images.githubusercontent.com/60550835/116436780-bc7f2f80-a81a-11eb-83f7-66f47fb43a3e.png)
 ![image](https://user-images.githubusercontent.com/60550835/116436849-cdc83c00-a81a-11eb-8340-1a193184fa3a.png)
@@ -73,8 +74,9 @@ We compared housing data to average income for each house pricepoint to see the 
 ![image](https://user-images.githubusercontent.com/60550835/116436944-e6385680-a81a-11eb-88c5-39e2a83264aa.png)
 
 ## California
-![image](https://user-images.githubusercontent.com/60550835/116437041-01a36180-a81b-11eb-9d22-354ee7decffc.png)
-![image](https://user-images.githubusercontent.com/60550835/116437060-07994280-a81b-11eb-8e14-1c0bb9211264.png)
+![image](https://user-images.githubusercontent.com/60550835/116441116-27326a00-a81f-11eb-8d5b-a75c908c3925.png)
+![image](https://user-images.githubusercontent.com/60550835/116441221-4204de80-a81f-11eb-9678-55845276412a.png)
+
 
 
 
