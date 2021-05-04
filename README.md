@@ -1,20 +1,20 @@
 # Analysis of Factors that affect House Price Index (HPI)
 
-# Project Description 
+## Project Description 
 The objective of the project was to analyze the relationship between various factors that impact HPI such as Weather and Disaster data for IL, FL, CA. Data cleanup was performed in Jupyter Notebok. A Dashboard was created in Tableau. FBprophet was used to forecast climate trends. A multiple linear regression was created to test if weather and disaster had an affect on HPI.
-# Tools 
+## Tools 
 1. Python
    - FBprophet
    - Pandas
 2. Tableau
-# Steps 
-## 1. Aquiring Data 
+## Steps 
+### 1. Aquiring Data 
 Data for Diaster data for each state was aquired through NOA. Housing Data
-## 2. Cleaning Data
+### 2. Cleaning Data
 Data was cleaned using python pandas.
-## 3. AnalysisPandas
+### 3. AnalysisPandas
 Data was analyzed on Tableau.
-## 4. Prediction
+### 4. Prediction
 Machine learning was used to predict trends with FBprophet.
 
 # Analysis
