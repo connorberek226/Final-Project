@@ -50,7 +50,7 @@ We used Fb-prophet to predict the different temperature trends for each state.
 ![image](https://user-images.githubusercontent.com/60550835/116175721-de739780-a6de-11eb-84cf-93d1d6177dce.png)
 
 # Disaster Data
-We collected data on the most widely occuring diaster for each state. For Illinois we focused on Tornadoes. For Florida it was on Hurricanes. For California it was wide fires.
+We collected data on the most widely occuring diaster for each state. For Illinois we focused on Tornadoes. For Florida it was on Hurricanes. For California it was wild fires.
 ## Illinois
 ![image](https://user-images.githubusercontent.com/60550835/116434702-a4a6ac00-a818-11eb-9536-a999aaa6908d.png)
 ![image](https://user-images.githubusercontent.com/60550835/116434773-b5572200-a818-11eb-81cb-b089e2254799.png)
